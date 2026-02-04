@@ -8,6 +8,9 @@ import { registerFeishuDriveTools } from "./src/drive.js";
 import { registerFeishuPermTools } from "./src/perm.js";
 import { registerFeishuBitableTools } from "./src/bitable.js";
 
+
+
+
 export { monitorFeishuProvider } from "./src/monitor.js";
 export {
   sendMessageFeishu,
